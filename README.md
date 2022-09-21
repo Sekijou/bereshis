@@ -1,2 +1,2 @@
 # bereshis
-Beginner level game application using C++ &amp; SDL2
+Beginner level game application using C++ & raylib.
